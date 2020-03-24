@@ -11,7 +11,7 @@ import Foundation
 /// The default constants used for the update alert's messaging.
 public struct AlertConstants {
     /// The text that conveys the message that there is an app update available
-    public static let alertMessage = "Новая версия приложения Forward доступна для скачивания в AppStore. Просим обновить до версии %@."
+    public static let alertMessage = "Новая версия приложения %@ доступна для скачивания в AppStore. Просим обновить до версии %@."
 
     /// The alert title which defaults to *Update Available*.
     public static let alertTitle = "Доступно обновление"
